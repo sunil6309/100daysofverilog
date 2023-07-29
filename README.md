@@ -1,5 +1,5 @@
 # 100daysofverilog
-Hello VLSI enthusiasts. I'm DS Jahnavi, and I'm now focused on RTL Design with Verilog HDL as I immerse myself in the world of VLSI.
+Hello VLSI enthusiasts. I'm sunil, and I'm now focused on RTL Design with Verilog HDL as I immerse myself in the world of VLSI.
 I use Intel's Quartus (Quartus prime 17.1) and Modelsim to synthesize and simulate RTL codes as I work towards my 100-day objective of learning RTL.
 
 Day-1: Half Adder
