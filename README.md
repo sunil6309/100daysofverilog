@@ -48,3 +48,4 @@ Day-22: Vending_machine
 
 Day-23: binary to 7-segment led code
 
+Day-24:Parllel in parllel out 
