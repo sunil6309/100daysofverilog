@@ -51,3 +51,5 @@ Day-23: binary to 7-segment led code
 Day-24:Parllel in parllel out 
 
 Day-25:Parllel in serial out 
+
+Day-26:serial in parllel out
