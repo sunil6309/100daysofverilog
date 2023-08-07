@@ -56,4 +56,4 @@ Day-26:serial in parllel out
 
 Day-27:encoder8*3
 
-
+Day=28:priority encoder
